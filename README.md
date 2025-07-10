@@ -6,7 +6,7 @@
                 `+oooo:                  Uptime: 24/7
                `+oooooo:                 Packages: Python, Java, YouTube 
                -+oooooo+:                Shell: zsh
-             `/:-:++oooo+:               Resolution: 2560x1440 
+             `/:-:++oooo+:               Resolution: 2560x1440
             `/++++/+++++++:              DE: Hyprland 
            `/++++++++++++++:             WM: sway 
           `/+++ooooooooooooo/`           Terminal: kitty 
