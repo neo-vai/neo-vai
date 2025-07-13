@@ -7,7 +7,7 @@
                `+oooooo:                 Packages: Python, Java, YouTube 
                -+oooooo+:                Shell: zsh
              `/:-:++oooo+:               Resolution: 2560x1440
-            `/++++/+++++++:              DE: Hyprland 
+            `/++++/+++++++:              DE: Hyprland
            `/++++++++++++++:             WM: sway
           `/+++ooooooooooooo/`           Terminal: kitty 
          ./ooosssso++osssssso+`          CPU: Intel i7-7700
