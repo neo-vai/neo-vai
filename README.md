@@ -1,6 +1,6 @@
 ```
 ❯ neofetch
-                   -`                    neo-vai@archlinux 
+                   -`                    neo-vai@archlinux
                   .o+`                 ┌────────────────────────────────┐
                  `ooo/                   OS: Arch Linux
                 `+oooo:                  Uptime: 24/7
