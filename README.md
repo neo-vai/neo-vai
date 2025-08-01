@@ -1,10 +1,10 @@
 ```
 ❯ neofetch
                    -`                    neo-vai@archlinux
-                  .o+`                 ┌────────────────────────────────┐
+                  .o+`                 ┌───────────────────────────────────┐
                  `ooo/                   OS: Arch Linux
                 `+oooo:                  Uptime: 24/7
-               `+oooooo:                 Packages: Python, Java, YouTube
+               `+oooooo:                 Packages: Python, Java, Go, YouTube
                -+oooooo+:                Shell: zsh
              `/:-:++oooo+:               Resolution: 2560x1440
             `/++++/+++++++:              DE: Hyprland
@@ -13,7 +13,7 @@
          ./ooosssso++osssssso+`          CPU: Intel i7-7700
         .oossssso-`` `/ossssss+`         GPU: NVIDIA GeForce RTX 3070 
        -osssssso.      :ssssssso.        Memory: 6445MiB / 15933MiB
-      :osssssss/        osssso+++.     └────────────────────────────────┘  
+      :osssssss/        osssso+++.     └───────────────────────────────────┘  
      /ossssssss/        +ssssooo/-     
    `/ossssso+/:-        -:/+osssso+-     
   `+sso+:-`                 `.-/+oso:
