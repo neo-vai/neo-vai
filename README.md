@@ -5,14 +5,14 @@
                  `ooo/                   OS: Arch Linux
                 `+oooo:                  Uptime: 24/7
                `+oooooo:                 Packages: Python, Java, Go, YouTube
-               -+oooooo+:                Shell: zsh
-             `/:-:++oooo+:               Resolution: 2560x1440
+               -+oooooo+:                Languages: en_US, ru_RU
+             `/:-:++oooo+:               Website: neo-vai.github.io ALPHA 
             `/++++/+++++++:              DE: Hyprland
-           `/++++++++++++++:             WM: sway
-          `/+++ooooooooooooo/`           Terminal: kitty 
+           `/++++++++++++++:             MainGame: Minecraft
+          `/+++ooooooooooooo/`           Editor: JetBrains, VScode, NeoVim
          ./ooosssso++osssssso+`          CPU: Intel i7-7700
         .oossssso-`` `/ossssss+`         GPU: NVIDIA GeForce RTX 3070 
-       -osssssso.      :ssssssso.        Memory: 6445MiB / 15933MiB
+       -osssssso.      :ssssssso.        Uptime: 24/7
       :osssssss/        osssso+++.     └───────────────────────────────────┘  
      /ossssssss/        +ssssooo/-     
    `/ossssso+/:-        -:/+osssso+-     
