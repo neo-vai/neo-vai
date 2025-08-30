@@ -11,7 +11,7 @@
            `/++++++++++++++:             Games: Minecraft
           `/+++ooooooooooooo/`           Editor: JetBrains, VScode, NeoVim
          ./ooosssso++osssssso+`          CPU: Intel i7-7700
-        .oossssso-`` `/ossssss+`         GPU: NVIDIA GeForce RTX 3070 
+        .oossssso-`` `/ossssss+`         GPU: NVIDIA GeForce RTX 3070
        -osssssso.      :ssssssso.        Uptime: 24/7 
       :osssssss/        osssso+++.     └───────────────────────────────────┘  
      /ossssssss/        +ssssooo/-     
