@@ -2,7 +2,7 @@
 ❯ neofetch
                    -`                    neo-vai@archlinux
                   .o+`                 ┌───────────────────────────────────┐
-                 `ooo/                   OS: Arch Linux
+                 `ooo/                   OS: Arch Linux 
                 `+oooo:                  Uptime: 24/7
                `+oooooo:                 Packages: Python, Java, Go, YouTube
                -+oooooo+:                Languages: en_US, ru_RU
