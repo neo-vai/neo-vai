@@ -6,10 +6,10 @@
                 `+oooo:                  Uptime: 24/7
                `+oooooo:                 Packages: Python, Java, Go, YouTube
                -+oooooo+:                Languages: en_US, ru_RU
-             `/:-:++oooo+:               Website: neo-vai.github.io ALPHA 
+             `/:-:++oooo+:               Website: t.me/@neovai 
             `/++++/+++++++:              DE: Hyprland
            `/++++++++++++++:             Games: Minecraft
-          `/+++ooooooooooooo/`           Editor: JetBrains, VScode, NeoVim
+          `/+++ooooooooooooo/`           Editor: VScode, NeoVim
          ./ooosssso++osssssso+`          CPU: Intel i7-7700
         .oossssso-`` `/ossssss+`         GPU: NVIDIA GeForce RTX 3070
        -osssssso.      :ssssssso.        Uptime: 24/7
