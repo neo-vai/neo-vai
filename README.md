@@ -4,7 +4,7 @@
                   .o+`                 ┌───────────────────────────────────┐
                  `ooo/                   OS: Arch Linux 
                 `+oooo:                  Uptime: 24/7
-               `+oooooo:                 Packages: Python, Java, Go, YouTube
+               `+oooooo:                 Packages: Go, YouTube
                -+oooooo+:                Languages: en_US, ru_RU
              `/:-:++oooo+:               Website: t.me/@neovai 
             `/++++/+++++++:              DE: Hyprland
