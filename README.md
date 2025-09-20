@@ -1,19 +1,19 @@
 ```
 ❯ neofetch
                    -`                    neo-vai@archlinux
-                  .o+`                 ┌───────────────────────────────────┐
+                  .o+`                 ┌─────────────────────────┐
                  `ooo/                   OS: Arch Linux 
                 `+oooo:                  Uptime: 24/7
                `+oooooo:                 Packages: Go, YouTube
-               -+oooooo+:                Languages: en_US, ru_RU
-             `/:-:++oooo+:               Website: t.me/@neovai 
-            `/++++/+++++++:              DE: Hyprland
-           `/++++++++++++++:             Games: Minecraft
-          `/+++ooooooooooooo/`           Editor: VScode, NeoVim
-         ./ooosssso++osssssso+`          CPU: Intel i7-7700
-        .oossssso-`` `/ossssss+`         GPU: NVIDIA GeForce RTX 3070
-       -osssssso.      :ssssssso.        Uptime: 24/7
-      :osssssss/        osssso+++.     └───────────────────────────────────┘  
+               -+oooooo+:                DE: Hyprland
+             `/:-:++oooo+:               Games: Minecraft
+            `/++++/+++++++:              Editor: VScode, NeoVim
+           `/++++++++++++++:           └─────────────────────────┘  
+          `/+++ooooooooooooo/`           
+         ./ooosssso++osssssso+`          
+        .oossssso-`` `/ossssss+`         
+       -osssssso.      :ssssssso.        
+      :osssssss/        osssso+++.       
      /ossssssss/        +ssssooo/-     
    `/ossssso+/:-        -:/+osssso+-     
   `+sso+:-`                 `.-/+oso:
