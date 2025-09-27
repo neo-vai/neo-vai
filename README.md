@@ -5,7 +5,7 @@
                  `ooo/                   OS: Arch Linux 
                 `+oooo:                  Uptime: 24/7
                `+oooooo:                 Packages: Go, YouTube
-               -+oooooo+:                DE: Hyprland
+               -+oooooo+:                DE: Hyprland, i3wm
              `/:-:++oooo+:               Games: Minecraft
             `/++++/+++++++:              Editor: VScode, NeoVim
            `/++++++++++++++:           └─────────────────────────┘  
