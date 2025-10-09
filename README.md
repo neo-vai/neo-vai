@@ -8,8 +8,8 @@
                -+oooooo+:                DE: Hyprland, i3wm
              `/:-:++oooo+:               Games: Minecraft
             `/++++/+++++++:              Editor: VScode, NeoVim
-           `/++++++++++++++:           └───────────────────────────────┘  
-          `/+++ooooooooooooo/`           
+           `/++++++++++++++:             Language: en_US, ru_RU
+          `/+++ooooooooooooo/`         └───────────────────────────────┘    
          ./ooosssso++osssssso+`          
         .oossssso-`` `/ossssss+`         
        -osssssso.      :ssssssso.        
