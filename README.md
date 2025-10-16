@@ -9,15 +9,14 @@
              `/:-:++oooo+:               Games: Minecraft
             `/++++/+++++++:              Editor: VScode, NeoVim
            `/++++++++++++++:             Language: en_US, ru_RU
-          `/+++ooooooooooooo/`         └───────────────────────────────┘ 
-         ./ooosssso++osssssso+`       
-        .oossssso-`` `/ossssss+`      
-       -osssssso.      :ssssssso.     
-      :osssssss/        osssso+++.    
-     /ossssssss/        +ssssooo/-  
-   `/ossssso+/:-        -:/+osssso+-  
+          `/+++ooooooooooooo/`         └───────────────────────────────┘
+         ./ooosssso++osssssso+`      
+        .oossssso-`` `/ossssss+`     
+       -osssssso.      :ssssssso.    
+      :osssssss/        osssso+++.   
+     /ossssssss/        +ssssooo/- 
+   `/ossssso+/:-        -:/+osssso+- 
   `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/                        
- .`                                 `/                        
+ `++:.                           `-/+/                       
+ .`                                 `/                       
  ```
- 
