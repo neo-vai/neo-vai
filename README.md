@@ -2,7 +2,7 @@
 ❯ neofetch
                    -`                    neo-vai@archlinux
                   .o+`                 ┌───────────────────────────────────────┐
-                 `ooo/                   OS: Debian Linux
+                 `ooo/                   OS: Arch Linux
                 `+oooo:                  Uptime: 24/7
                `+oooooo:                 Packages: Go, Java, YouTube
                -+oooooo+:                DE: Hyprland, Gnome
