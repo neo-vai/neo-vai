@@ -20,7 +20,7 @@
 **Backend**
 
 * Go (Gin)
-* Python (FastAPI, Aiogram)
+* Python (FastAPI)
 * Node.js / TypeScript (Next.js)
 
 **Databases & Infra**
@@ -32,8 +32,11 @@
 
 **Other**
 
+* Java basic
 * Telegram Bots
+* Discord Bots
 * REST APIs
+* Spigot/Paper plugins
 * SSE / async processing
 * Auth (JWT, API keys)
 * Basic UI (React / admin panels)
